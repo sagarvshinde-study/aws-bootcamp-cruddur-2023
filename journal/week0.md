@@ -39,9 +39,10 @@ https://app.rollbar.com/a/s.sagarv
 ### Apart from studies - Attended AWESOME Day Conferece on 2/15
 ![AWESOME Conference_15Feb](https://user-images.githubusercontent.com/121567154/219843882-637dbc64-3c31-454c-9d41-63844c87a0a9.png)
 
-### Biggest Thing for me- I was studying AWS since couple of months and finally dared to appear for Associate level Solution Architect exam 
-Here is the result- 
-![AWESOME Conference_15Feb](https://user-images.githubusercontent.com/121567154/219843909-c8ad3a0a-30bc-4d51-b1fd-309c858f9b4e.png)
+### Biggest Thing for me- I was studying AWS since couple of months and finally dared to appear for Associate level Solution Architect exam
+### Here is the result- 
+
+![image](https://user-images.githubusercontent.com/121567154/219844101-644e48fe-afa1-4255-abb5-2320f5ff9a45.png)
 
 [Credly verification] https://www.credly.com/badges/eb8a4b86-58a1-4ea5-9fe0-e1f9e07c4839/linked_in?t=rq8glp
 
