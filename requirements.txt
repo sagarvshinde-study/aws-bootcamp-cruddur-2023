@@ -1,5 +1,6 @@
 flask
-flask-cors
+flask-core  
+
 
     opentelemetry-sdk \
     opentelemetry-exporter-otlp-proto-http \
